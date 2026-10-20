@@ -1,5 +1,5 @@
 # MAPS
-SIGKDD ads track 2027
+SIGKDD ads track 2027 under-review paper
 《MAPS: A Multimodal Agentic Framework for POI Data Production Based on Crowdsourced Street-view Imagery》
 # Moltivation
 ![Moltivation](./img/Fig1.png)
